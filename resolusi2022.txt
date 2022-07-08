@@ -19,6 +19,7 @@ Learn css
 -Pseudo element
 -Pseudo classes
 -Media Queries
+-HTML selesai
 -Css animations
 
 Learn css framework
@@ -36,6 +37,7 @@ Learn javascript
 -Scoping
 -Hoisting
 -Closures
+-Css 80%
 
 Learn javascript framework
 -React
