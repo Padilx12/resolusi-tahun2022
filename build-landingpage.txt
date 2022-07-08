@@ -1,0 +1,3 @@
+Persiapan design web menggunakan figma
+slicing ui dengan html,css, dan javascript
+kolaborasi backend
