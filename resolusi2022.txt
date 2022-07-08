@@ -1,0 +1,43 @@
+Resolusi saya kedepan front end developer expert
+
+Learn HTML
+-Basic
+-Emmet
+-Forms
+-Semantic HTML
+-Seo basic
+
+Learn css
+-Basic
+-selector
+-Positioning
+-Box model
+-Display
+-Specificity
+-Flexbox
+-Grid
+-Pseudo element
+-Pseudo classes
+-Media Queries
+-Css animations
+
+Learn css framework
+-sass
+
+Learn javascript
+-Basic syntax
+-Dom manipulation
+-Fecth api
+-Async await
+-Event listener
+-Es6 
+-Promsise
+-Classes
+-Scoping
+-Hoisting
+-Closures
+
+Learn javascript framework
+-React
+-Vue
+
